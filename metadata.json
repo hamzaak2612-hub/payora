@@ -1,0 +1,8 @@
+
+{
+  "name": "RoboInvest Pro",
+  "description": "A professional AI-driven investment platform featuring automated trading robots, referral programs, and a comprehensive admin management system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
